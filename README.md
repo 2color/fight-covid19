@@ -1,2 +1,4 @@
-# no-corona
-Let's fight COVID-19 with knowledge and technology
+# Fight COVID-19
+
+Let's fight COVID-19 with knowledge and technology.
+
