@@ -14,7 +14,7 @@ Contributions welcome!
 - https://www.worldometers.info/coronavirus/
 - https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 - https://shiny.john-coene.com/coronavirus/
-- 
+- Tokyo COVID-19 Task Force website https://stopcovid19.metro.tokyo.lg.jp/en/flow
 
 
 ## Relevant websites
